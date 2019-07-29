@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Roboto&display=swap');
+
+:root {
+    --main-bg-color: #673ab7;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
